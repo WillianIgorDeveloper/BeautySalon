@@ -1,3 +1,3 @@
-# BeautySalon
+# BeautySalon #
 
-Link: https://willianprof.github.io/BeautySalon/
+[Demo](https://willianprof.github.io/BeautySalon/)
