@@ -1,10 +1,10 @@
 <img src="assets/img/banner.png" alt="Beautysalon - Banner">
 
-# BeautySalon
+<h1 align="center">BeautySalon</h1>
 
 <p>Projeto criado durante a Next Level Week #6 da <a href="https://www.rocketseat.com.br/">Rocketseat</a>, missão Origin.</p>
 
-[Demo](https://willianprof.github.io/BeautySalon/)
+[= Demo](https://willianprof.github.io/BeautySalon/)
 
 
 #### Tipo de estilização:
@@ -17,9 +17,10 @@
     - Swiper
 - Github para hospedagem
 
-##### Projeto Finalizado!
-
 <br>
+
+#### Projeto Finalizado!
+
 <br>
 
 ### Made by
