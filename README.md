@@ -1,5 +1,4 @@
 <img src="assets/img/banner.png" alt="Beautysalon - Banner">
-<img src="assets/img/banner-mobile.png" alt="Beautysalon - Banner Mobile">
 
 # BeautySalon
 
