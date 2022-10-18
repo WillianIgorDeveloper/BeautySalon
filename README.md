@@ -4,7 +4,7 @@
 
 <p>Projeto criado durante a Next Level Week #6 da <a href="https://www.rocketseat.com.br/">Rocketseat</a>, missão Origin.</p>
 
-[= Demo](https://yellowmoonastronaut.github.io/BeautySalon/)
+[= Demo](https://willianigordeveloper.github.io/BeautySalon/)
 
 
 #### Tipo de estilização:
